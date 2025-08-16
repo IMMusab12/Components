@@ -8,4 +8,11 @@
 <h2> Theme Toggle Button </h2>
 
 ```js
-  npx shadcn@latest add "http://skiper-ui.com/registry/theme-toggle-button.json"
+<>  npx shadcn@latest add "http://skiper-ui.com/registry/theme-toggle-button.json"
+
+```
+<h2> Hero UI Installation </h2>
+
+```js
+<>  npm install -g heroui-cli
+```
